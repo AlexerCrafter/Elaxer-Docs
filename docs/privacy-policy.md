@@ -25,3 +25,34 @@ Cette politique peut être mise à jour. Toute modification sera indiquée ici.
 
 ## 7. Contact
 Pour toute question, contactez-nous sur Discord : `.alexer`
+
+-------------------
+
+# Privacy Policy - AlexerProtect
+
+Last updated: 25/02/2025
+
+## 1. Introduction
+We respect your privacy. This policy explains what data we collect and how we use it.
+
+## 2. Data We Collect
+We may collect the following data:
+- Discord identifiers (User ID, Server ID, etc.)
+- Messages sent to the bot (only for processing commands)
+
+## 3. How We Use Data
+- Data is used solely for bot functionality.
+- We do not share or sell user data.
+
+## 4. Data Security & Retention
+- Data is stored securely and only accessible to bot administrators.
+- We do not retain data longer than necessary.
+
+## 5. Data Deletion
+If you wish to delete your data, contact us on Discord : `.alexer`.
+
+## 6. Policy Updates
+We may update this policy. Any changes will be posted here.
+
+## 7. Contact
+For any privacy concerns, email us on Discord : `.alexer`.
