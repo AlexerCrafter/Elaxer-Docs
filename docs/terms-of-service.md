@@ -20,7 +20,9 @@ Nous nous réservons le droit de modifier ces conditions à tout moment. Les uti
 ## 5. Contact
 Si vous avez des questions, vous pouvez m'ajouter sur Discord : `.alexer`
 
+
 ----------------------
+
 
 # 🇬🇧 Terms of Service - AlexerProtect
 
