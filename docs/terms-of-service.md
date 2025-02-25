@@ -1,4 +1,4 @@
-# Conditions d'utilisation de AlexerProtect
+# 🇫🇷 Conditions d'utilisation de AlexerProtect
 
 Dernière mise à jour : 25/02/2025
 
@@ -22,7 +22,7 @@ Si vous avez des questions, vous pouvez nous contacter sur Discord : `.alexer`
 
 ----------------------
 
-# Terms of Service - AlexerProtect
+# 🇬🇧 Terms of Service - AlexerProtect
 
 Last updated: 25/02/2025
 
