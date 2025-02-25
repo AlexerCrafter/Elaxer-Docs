@@ -1,4 +1,24 @@
-aaa
+# AlexerProtect - Documents juridiques
+
+Ce référentiel contient les ** Conditions d'utilisation ** et ** Politique de confidentialité ** pour le bot Discord AlexerProtect.
+
+## 📜 documents
+- [Conditions d'utilisation] (./ Docs / Termes-of-Service.md)
+- [Politique de confidentialité] (./ Docs / Privacy-Policy.md)
+
+## 🔍
+AlexerProtect est un bot Discord conçu pour [décrire le but de votre bot, par exemple,
+"Protéger les serveurs du spam et gérer les tâches de modération"].
+
+## 🚀 Comment utiliser
+- Si vous êtes un administrateur utilisant AlexerProtect dans votre serveur, vous acceptez ces documents.
+- Si vous devez nous contacter sur les questions juridiques, veuillez contacter ** [votre e-mail] **.
+
+## 📬 Contact
+Pour toutes les questions,
+Veuillez envoyer un e-mail ** [votre e-mail] ** ou ouvrir un problème dans ce référentiel.
+
+-------------------------------------------------------------------------------------------------------------------
 
 # AlexerProtect - Legal Documents
 
