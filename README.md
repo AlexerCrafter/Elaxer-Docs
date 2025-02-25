@@ -1,4 +1,4 @@
-# AlexerProtect - Documents Légaux
+# 🇫🇷 AlexerProtect - Documents Légaux
 
 Ce dépôt contient les **Conditions d'utilisation** et la **Politique de confidentialité** du bot Discord **AlexerProtect**.
 
@@ -18,7 +18,7 @@ Pour toute question, vous pouvez nous contacter sur discord : `.alexer`.
 
 -------------------------------------------------------------------------------------------------------------------
 
-# AlexerProtect - Legal Documents
+# 🇬🇧 AlexerProtect - Legal Documents
 
 This repository contains the **Terms of Service** and **Privacy Policy** for the AlexerProtect Discord bot.
 
