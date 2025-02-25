@@ -1,4 +1,4 @@
-# Politique de confidentialité de AlexerProtect
+# 🇫🇷 Politique de confidentialité de AlexerProtect
 
 Dernière mise à jour : 25/02/2025
 
@@ -28,7 +28,7 @@ Pour toute question, contactez-nous sur Discord : `.alexer`
 
 -------------------
 
-# Privacy Policy - AlexerProtect
+# 🇬🇧 Privacy Policy - AlexerProtect
 
 Last updated: 25/02/2025
 
