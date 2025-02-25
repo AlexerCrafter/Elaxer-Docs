@@ -1,9 +1,9 @@
-# Conditions d'utilisation de __AlexerProtect__
+# Conditions d'utilisation de AlexerProtect
 
-Dernière mise à jour : [Date]
+Dernière mise à jour : 11/02/2025
 
 ## 1. Introduction
-Bienvenue et merci d'utiliser [Nom du Bot] ! En utilisant ce service, vous acceptez les conditions suivantes.
+Bienvenue et merci d'utiliser AlexerProtect ! En utilisant ce service, vous acceptez les conditions suivantes.
 
 ## 2. Utilisation du Service
 - Vous devez respecter les règles de Discord.
@@ -18,4 +18,4 @@ Bienvenue et merci d'utiliser [Nom du Bot] ! En utilisant ce service, vous accep
 Nous nous réservons le droit de modifier ces conditions à tout moment. Les utilisateurs seront notifiés des changements majeurs.
 
 ## 5. Contact
-Si vous avez des questions, vous pouvez nous contacter à : [Adresse Email]
+Si vous avez des questions, vous pouvez nous contacter sur Discord : `.alexer`
