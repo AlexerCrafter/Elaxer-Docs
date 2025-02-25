@@ -27,7 +27,7 @@ This repository contains the **Terms of Service** and **Privacy Policy** for the
 - [Privacy Policy](./docs/privacy-policy.md)
 
 ## 🔍 About
-** Alexerprotect ** is a Discord bot designed to ensure protection and fun on the servers.
+**Alexerprotect** is a Discord bot designed to ensure protection and fun on the servers.
 
 ## 🚀 How to Use
 - If you are an administrator using AlexerProtect in your server, you agree to these documents.
