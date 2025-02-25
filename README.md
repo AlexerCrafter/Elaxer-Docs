@@ -1,22 +1,20 @@
-# AlexerProtect - Documents juridiques
+# AlexerProtect - Documents Légaux
 
-Ce référentiel contient les ** Conditions d'utilisation ** et ** Politique de confidentialité ** pour le bot Discord AlexerProtect.
+Ce dépôt contient les **Conditions d'utilisation** et la **Politique de confidentialité** du bot Discord **AlexerProtect**.
 
-## 📜 documents
-- [Conditions d'utilisation] (./ Docs / Termes-of-Service.md)
-- [Politique de confidentialité] (./ Docs / Privacy-Policy.md)
+## 📜 Documents
+- [Conditions d'utilisation](./docs/terms-of-service.md)
+- [Politique de confidentialité](./docs/privacy-policy.md)
 
-## 🔍
-AlexerProtect est un bot Discord conçu pour [décrire le but de votre bot, par exemple,
-"Protéger les serveurs du spam et gérer les tâches de modération"].
+## 🔍 À propos
+**AlexerProtect** est un bot Discord conçu pour [décrire l'objectif du bot, par exemple : "protéger les serveurs contre le spam et gérer les tâches de modération"].
 
-## 🚀 Comment utiliser
-- Si vous êtes un administrateur utilisant AlexerProtect dans votre serveur, vous acceptez ces documents.
-- Si vous devez nous contacter sur les questions juridiques, veuillez contacter ** [votre e-mail] **.
+## 🚀 Comment utiliser ces documents ?
+- Si vous êtes administrateur d’un serveur utilisant **AlexerProtect**, vous acceptez ces documents.
+- Si vous avez des questions ou une demande concernant la gestion de vos données, contactez-nous.
 
 ## 📬 Contact
-Pour toutes les questions,
-Veuillez envoyer un e-mail ** [votre e-mail] ** ou ouvrir un problème dans ce référentiel.
+Pour toute question, vous pouvez nous contacter sur discord : `.alexer`.
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -33,7 +31,7 @@ AlexerProtect is a Discord bot designed to [describe the purpose of your bot, e.
 
 ## 🚀 How to Use
 - If you are an administrator using AlexerProtect in your server, you agree to these documents.
-- If you need to contact us regarding legal matters, please reach out to **[your email]**.
+- If you need to contact us regarding legal matters, please reach out me on discord : `.alexer`.
 
 ## 📬 Contact
-For any questions, please email **[your email]** or open an issue in this repository.
+For any questions, please contact us on Discord : `.alexer`.
