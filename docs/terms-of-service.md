@@ -1,6 +1,6 @@
 # Conditions d'utilisation de AlexerProtect
 
-Dernière mise à jour : 11/02/2025
+Dernière mise à jour : 25/02/2025
 
 ## 1. Introduction
 Bienvenue et merci d'utiliser AlexerProtect ! En utilisant ce service, vous acceptez les conditions suivantes.
