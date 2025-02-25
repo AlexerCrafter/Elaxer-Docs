@@ -7,7 +7,7 @@ Ce dépôt contient les **Conditions d'utilisation** et la **Politique de confid
 - [Politique de confidentialité](./docs/privacy-policy.md)
 
 ## 🔍 À propos
-**AlexerProtect** est un bot Discord conçu pour [décrire l'objectif du bot, par exemple : "protéger les serveurs contre le spam et gérer les tâches de modération"].
+**AlexerProtect** est un bot Discord conçu pour assurer la protection et l'amusement sur les serveurs.
 
 ## 🚀 Comment utiliser ces documents ?
 - Si vous êtes administrateur d’un serveur utilisant **AlexerProtect**, vous acceptez ces documents.
@@ -27,7 +27,7 @@ This repository contains the **Terms of Service** and **Privacy Policy** for the
 - [Privacy Policy](./docs/privacy-policy.md)
 
 ## 🔍 About
-AlexerProtect is a Discord bot designed to [describe the purpose of your bot, e.g., "protect servers from spam and manage moderation tasks"].
+** Alexerprotect ** is a Discord bot designed to ensure protection and fun on the servers.
 
 ## 🚀 How to Use
 - If you are an administrator using AlexerProtect in your server, you agree to these documents.
