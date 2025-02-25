@@ -18,13 +18,13 @@ Les données sont utilisées uniquement pour le fonctionnement du bot. Nous ne p
 - Nous ne conservons pas les données plus longtemps que nécessaire.
 
 ## 5. Suppression des données
-Si vous souhaitez que vos données soient supprimées, contactez-nous sur Discord : `.alexer`
+Si vous souhaitez que vos données soient supprimées, ajoutez-moi sur Discord : `.alexer`
 
 ## 6. Modifications de cette politique
 Cette politique peut être mise à jour. Toute modification sera indiquée ici.
 
 ## 7. Contact
-Pour toute question, contactez-nous sur Discord : `.alexer`
+Pour toute question, ajoutez-moi sur Discord : `.alexer`
 
 -------------------
 
@@ -49,10 +49,10 @@ We may collect the following data:
 - We do not retain data longer than necessary.
 
 ## 5. Data Deletion
-If you wish to delete your data, contact us on Discord : `.alexer`.
+If you wish to delete your data, add me on Discord : `.alexer`.
 
 ## 6. Policy Updates
 We may update this policy. Any changes will be posted here.
 
 ## 7. Contact
-For any privacy concerns, email us on Discord : `.alexer`.
+For any privacy concerns, add me on Discord : `.alexer`.
