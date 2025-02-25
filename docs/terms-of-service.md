@@ -18,7 +18,7 @@ Bienvenue et merci d'utiliser AlexerProtect ! En utilisant ce service, vous acce
 Nous nous réservons le droit de modifier ces conditions à tout moment. Les utilisateurs seront notifiés des changements majeurs.
 
 ## 5. Contact
-Si vous avez des questions, vous pouvez nous contacter sur Discord : `.alexer`
+Si vous avez des questions, vous pouvez m'ajouter sur Discord : `.alexer`
 
 ----------------------
 
@@ -42,4 +42,4 @@ Thank you for using AlexerProtect! By using this service, you agree to these Ter
 We may modify these terms at any time. Significant changes will be notified.
 
 ## 5. Contact
-For any questions, please contact `.alexer` on Discord.
+For any questions, please add `.alexer` on Discord.
