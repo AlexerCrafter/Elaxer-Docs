@@ -1,6 +1,6 @@
 # Politique de confidentialité de AlexerProtect
 
-Dernière mise à jour : [Date]
+Dernière mise à jour : 25/02/2025
 
 ## 1. Introduction
 Nous respectons votre vie privée. Cette politique explique quelles données sont collectées et comment elles sont utilisées.
