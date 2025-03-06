@@ -6,8 +6,8 @@ Ce document liste et décrit les commandes disponibles pour le bot Discord **Ale
 ## Commandes Administratives
 
 ### `/ban`
-**Description:** Bannir un membre du serveur.\n
-**Permissions:** Administrateur ou permission de bannir des membres.\n
+**Description:** Bannir un membre du serveur.
+**Permissions:** Administrateur ou permission de bannir des membres.
 **Arguments:**
 - `member` : Membre à bannir.
 - `reason` : Raison du bannissement (optionnelle).
