@@ -42,6 +42,13 @@ Ce document liste et décrit les commandes disponibles pour le bot Discord **Ale
 - `amount` : Nombre de messages à supprimer.
 - `channel` : Salon où supprimer les messages (optionnel).
 
+### `/logs`
+**Description:** Active/Désactive un système de logs dans un salon textuel.
+**Permissions:** None
+**Arguments:**
+- `action` : Activer ou Désactiver les logs.
+- `id_channel` : Identifiant du salon dans lequel les logs seront mis.
+
 ## Commandes d'Information
 
 ### `/user_info`
@@ -98,7 +105,13 @@ Ce document liste et décrit les commandes disponibles pour le bot Discord **Ale
 **Arguments:**
 - `letter` : Lettre à deviner.
 
+### `/blackjack`
+**Description:** Jouer au Blackjack.
+
 ## Commandes Diverses
+
+### `/create_serveur`
+**Description:** Créer un serveur entièrement (Rôles, Salons textuels/vocaux, Catégories). **ATTENTION cette commande supprime tous les salons et rôles déjà existants**.
 
 ### `/alexer`
 **Description:** Obtenir des liens vers les réseaux sociaux du créateur.
