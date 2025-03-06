@@ -140,3 +140,5 @@ Ce document liste et décrit les commandes disponibles pour le bot Discord **Ale
 ---
 
 **Note:** Certaines commandes nécessitent des permissions spécifiques pour être exécutées.
+
+> Un bug ? Contactez moi sur Discord : `.alexer`
