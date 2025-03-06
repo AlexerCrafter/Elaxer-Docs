@@ -1,7 +1,7 @@
 # Documentation des Commandes du Bot Discord
 
 ## Introduction
-Ce document liste et décrit les commandes disponibles pour le bot Discord de Alexer.
+Ce document liste et décrit les commandes disponibles pour le bot Discord **AlexerProtect**.
 
 ## Commandes Administratives
 
@@ -79,9 +79,6 @@ Ce document liste et décrit les commandes disponibles pour le bot Discord de Al
 **Description:** Afficher une histoire drôle.
 
 ## Commandes de Jeux
-
-### `/tetris`
-**Description:** Jouer à Tetris sur Discord.
 
 ### `/puissance4`
 **Description:** Lancer une partie de Puissance 4.
