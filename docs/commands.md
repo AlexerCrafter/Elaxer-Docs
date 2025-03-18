@@ -1,7 +1,7 @@
 # Documentation des Commandes du Bot Discord
 
 ## Introduction
-Ce document liste et décrit les commandes disponibles pour le bot Discord **AlexerProtect**.
+Ce document liste et décrit les commandes disponibles pour le bot Discord **Elaxer**.
 
 ## Commandes Administratives
 
