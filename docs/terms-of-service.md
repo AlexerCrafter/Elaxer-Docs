@@ -1,9 +1,9 @@
-# 🇫🇷 Conditions d'utilisation de AlexerProtect
+# 🇫🇷 Conditions d'utilisation de Elaxer
 
 Dernière mise à jour : 25/02/2025
 
 ## 1. Introduction
-Bienvenue et merci d'utiliser AlexerProtect ! En utilisant ce service, vous acceptez les conditions suivantes.
+Bienvenue et merci d'utiliser Elaxer ! En utilisant ce service, vous acceptez les conditions suivantes.
 
 ## 2. Utilisation du Service
 - Vous devez respecter les règles de Discord.
@@ -24,12 +24,12 @@ Si vous avez des questions, vous pouvez m'ajouter sur Discord : `.alexer`
 ----------------------
 
 
-# 🇬🇧 Terms of Service - AlexerProtect
+# 🇬🇧 Terms of Service - Elaxer
 
 Last updated: 25/02/2025
 
 ## 1. Introduction
-Thank you for using AlexerProtect! By using this service, you agree to these Terms of Service.
+Thank you for using Elaxer! By using this service, you agree to these Terms of Service.
 
 ## 2. Usage of the Service
 - You must comply with Discord’s Terms of Service.
