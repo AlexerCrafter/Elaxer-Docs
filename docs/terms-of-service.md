@@ -1,24 +1,24 @@
 # 🇫🇷 Conditions d'utilisation de Elaxer
 
-Dernière mise à jour : 25/02/2025
+Dernière mise à jour : 27/03/2025
 
 ## 1. Introduction
-Bienvenue et merci d'utiliser Elaxer ! En utilisant ce service, vous acceptez les conditions suivantes.
+Bienvenue et merci d'utiliser Elaxer ! En utilisant ce service, vous acceptez les conditions ci-dessous.
 
 ## 2. Utilisation du Service
 - Vous devez respecter les règles de Discord.
 - Il est interdit d'utiliser le bot à des fins illégales ou nuisibles.
-- Le bot est fourni "tel quel", sans garantie de fonctionnement ininterrompu.
+- Le bot est fourni "en l'état", sans garantie de fonctionnement ininterrompu.
 
 ## 3. Responsabilités
 - Nous ne sommes pas responsables des actions des utilisateurs utilisant le bot.
 - Nous nous réservons le droit de suspendre ou bannir un utilisateur si nécessaire.
 
 ## 4. Modification des Conditions
-Nous nous réservons le droit de modifier ces conditions à tout moment. Les utilisateurs seront notifiés des changements majeurs.
+Nous nous réservons le droit de modifier ces conditions d'utilisation à tout moment. Les utilisateurs seront notifiés des changements majeurs.
 
 ## 5. Contact
-Si vous avez des questions, vous pouvez m'ajouter sur Discord : `.alexer`
+Si vous avez des questions, ajoutez nous sur Discord : `.alexer`
 
 
 ----------------------
@@ -29,7 +29,7 @@ Si vous avez des questions, vous pouvez m'ajouter sur Discord : `.alexer`
 Last updated: 25/02/2025
 
 ## 1. Introduction
-Thank you for using Elaxer! By using this service, you agree to these Terms of Service.
+Thank you for using Elaxer! By using this service, you agree to these Terms of Service below.
 
 ## 2. Usage of the Service
 - You must comply with Discord’s Terms of Service.
