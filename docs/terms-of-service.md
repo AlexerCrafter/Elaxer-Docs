@@ -26,7 +26,7 @@ Si vous avez des questions, ajoutez nous sur Discord : `.alexer`
 
 # 🇬🇧 Terms of Service - Elaxer
 
-Last updated: 25/02/2025
+Last updated: 17/03/2025
 
 ## 1. Introduction
 Thank you for using Elaxer! By using this service, you agree to these Terms of Service below.
