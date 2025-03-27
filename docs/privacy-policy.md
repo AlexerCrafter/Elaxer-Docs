@@ -1,6 +1,6 @@
 # 🇫🇷 Politique de confidentialité de Elaxer
 
-Dernière mise à jour : 25/02/2025
+Dernière mise à jour : 27/03/2025
 
 ## 1. Introduction
 Nous respectons votre vie privée. Cette politique explique quelles données sont collectées et comment elles sont utilisées.
@@ -18,41 +18,41 @@ Les données sont utilisées uniquement pour le fonctionnement du bot. Nous ne p
 - Nous ne conservons pas les données plus longtemps que nécessaire.
 
 ## 5. Suppression des données
-Si vous souhaitez que vos données soient supprimées, ajoutez-moi sur Discord : `.alexer`
+Si vous souhaitez que vos données soient supprimées, ajoutez-nous sur Discord : `.alexer`
 
 ## 6. Modifications de cette politique
 Cette politique peut être mise à jour. Toute modification sera indiquée ici.
 
 ## 7. Contact
-Pour toute question, ajoutez-moi sur Discord : `.alexer`
+Pour toute question, ajoutez-nous sur Discord : `.alexer`
 
 -------------------
 
 # 🇬🇧 Privacy Policy - Elaxer
 
-Last updated: 25/02/2025
+Last updated: 27/03/2025
 
 ## 1. Introduction
-We respect your privacy. This policy explains what data we collect and how we use it.
+We respect your privacy. This policy explains what data is collected and how we use it.
 
-## 2. Data We Collect
+## 2. Data we collect
 We may collect the following data:
 - Discord identifiers (User ID, Server ID, etc.)
 - Messages sent to the bot (only for processing commands)
 
-## 3. How We Use Data
-- Data is used solely for bot functionality.
+## 3. How we usedData
+- Data is used only for bot functionality.
 - We do not share or sell user data.
 
-## 4. Data Security & Retention
+## 4. Data security & retention
 - Data is stored securely and only accessible to bot administrators.
 - We do not retain data longer than necessary.
 
-## 5. Data Deletion
-If you wish to delete your data, add me on Discord : `.alexer`.
+## 5. Data deletion
+If you wish to delete your data, add us on Discord : `.alexer`.
 
-## 6. Policy Updates
+## 6. Policy updates
 We may update this policy. Any changes will be posted here.
 
 ## 7. Contact
-For any privacy concerns, add me on Discord : `.alexer`.
+For any privacy concerns, add us on Discord : `.alexer`.
