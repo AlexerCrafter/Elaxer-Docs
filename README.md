@@ -14,7 +14,7 @@ Ce dépôt contient les **Conditions d'utilisation** et la **Politique de confid
 - Si vous avez des questions ou une demande concernant la gestion de vos données, contactez-nous.
 
 ## 📬 Contact
-Pour toute question, vous pouvez nous contacter sur discord : `.alexer`.
+Pour toute question, vous pouvez nous contacter sur Discord : `.alexer`.
 
 -------------------------------------------------------------------------------------------------------------------
 
