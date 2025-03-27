@@ -1,5 +1,7 @@
 # Documentation des Commandes prises en charges par le Bot Elaxer
 
+Dernière mise à jour de ce document : 27/03/2025
+
 ## Introduction
 Ce document liste et décrit les commandes disponibles pour le bot discord **Elaxer**
 Des commandes peuvent être ajoutées, modifiées ou supprimées à tout moment.
