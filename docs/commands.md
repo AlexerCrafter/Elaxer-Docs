@@ -1,4 +1,4 @@
-# Documentation des Commandes prises en charges par le Bot Elaxer
+# Documentation des Commandes prises en charge par le Bot Elaxer
 
 Dernière mise à jour de ce document : 27/03/2025
 
@@ -45,7 +45,7 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 **Activer/Désactiver un système de Logs**
 - `/logs {action} {id_channel}`
   - `{action}` (Literal\['activate','desactivate'\]) -> Action pour activer/désactiver les logs
-  - `{id_channel}` (str) -> Salon dans lequel on veut afficher les logs
+  - `{id_channel}` (str) -> Salon dans lequel les logs seront affichés
 
 **Créer un Giveaway**
 - `/giveaway {reward} {duree} {unite}`
@@ -63,7 +63,7 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 
 **Informations sur un membre**
 - `/user_info {member}`
-  - `{member}` (discord.Member) -> Membre sur lequel on souhaite des informations
+  - `{member}` (discord.Member) -> Informations publiques conercant un membre
 
 **Informations sur un serveur**
 - `/server_info`
