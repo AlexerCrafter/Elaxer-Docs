@@ -3,8 +3,8 @@
 Dernière mise à jour de ce document : 27/03/2025
 
 ## Introduction
-Ce document liste et décrit les commandes disponibles pour le bot discord **Elaxer**.
-Des commandes peuvent être ajoutées, modifiées ou supprimées à tout moment.
+Ce document liste et décrit les commandes disponibles pour le bot discord **Elaxer**.  
+Des commandes peuvent être ajoutées, modifiées ou supprimées à tout moment.  
 Les permissions requises pour certaines commandes peuvent également être ajustées selon les besoins.
 
 ### Commandes Administratives
