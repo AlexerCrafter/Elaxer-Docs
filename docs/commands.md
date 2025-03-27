@@ -1,144 +1,127 @@
-# Documentation des Commandes du Bot Discord
+# Documentation des Commandes prises en charges par le Bot Elaxer
 
 ## Introduction
-Ce document liste et décrit les commandes disponibles pour le bot Discord **Elaxer**.
+Ce document liste et décrit les commandes disponibles pour le bot discord **Elaxer**
 
-## Commandes Administratives
+### Commandes Administratives
 
-### `/ban`
-**Description:** Bannir un membre du serveur.
-**Permissions:** Administrateur ou permission de bannir des membres.
-**Arguments:**
-- `member` : Membre à bannir.
-- `reason` : Raison du bannissement (optionnelle).
+**Bannir un membre**
+- Permission : `Administrateur` ou `Bannir des membres`
+- `/ban {member} [reason]`
+  - `{member}` (discord.User) -> Membre à bannir
+  - `[reason]` (str) -> Raison du bannissement
 
-### `/unban`
-**Description:** Débannir un membre du serveur.
-**Permissions:** Administrateur ou permission de bannir des membres.
-**Arguments:**
-- `member` : Membre à débannir.
-- `reason` : Raison du débannissement (optionnelle).
+**Débannir un membre**
+- Permission : `Administrateur` ou `Bannir des membres`
+- `/unban {member} [reason]`
+  - `{member}` (discord.User) -> Membre à débannir
+  - `[reason]` (str) -> Raison du débannissement
+ 
+**Expulser un membre**
+- Permission : `Administrateur` ou `Expulser des membres`
+- `/kick {member} [reason]`
+  - `{member}` (discord.User) -> Membre à expulser
+  - `[reason]` (str) -> Raison de l'expulsion
 
-### `/kick`
-**Description:** Expulser un membre du serveur.
-**Permissions:** Administrateur ou permission d'expulser des membres.
-**Arguments:**
-- `member` : Membre à expulser.
-- `reason` : Raison de l'expulsion (optionnelle).
+**Rendre muet un membre**
+- Permission : `Administrateur` ou `Rendre muet un membre`
 
-### `/mute`
-**Description:** Rendre muet un membre pour une durée définie.
-**Permissions:** Administrateur ou permission de rendre muet un membre.
-**Arguments:**
-- `member` : Membre à mute.
-- `temps` : Durée du mute.
-- `unité` : Unité de temps (sec, min, h).
-- `reason` : Raison du mute (optionnelle).
+**Ne plus rendre muet un membre**
+- Permission : `Administrateur` ou `Rendre muet un membre`
 
-### `/clear`
-**Description:** Supprimer un certain nombre de messages dans un canal.
-**Permissions:** Administrateur ou permission de gérer les messages.
-**Arguments:**
-- `amount` : Nombre de messages à supprimer.
-- `channel` : Salon où supprimer les messages (optionnel).
+**Suppression de messages**
+- Permission : `Administrateur` ou `Gérer les messages`
+- `/clear {amount} [channel]`
+  - `{amount}` (int) -> Nombre de messages à supprimer
+  - `[channel]` (discord.TextChannel) -> Salon dans lequel les messages seront supprimés
+ 
+**Avertir un membre**
+- Permission : `NONE`
 
-### `/logs`
-**Description:** Active/Désactive un système de logs dans un salon textuel.
-**Permissions:** None
-**Arguments:**
-- `action` : Activer ou Désactiver les logs.
-- `id_channel` : Identifiant du salon dans lequel les logs seront mis.
+**Activer/Désactiver un système de Logs**
+- `/logs {action} {id_channel}`
+  - `{action}` (Literal\['activate','desactivate'\]) -> Action pour activer/désactiver les logs
+  - `{id_channel}` (str) -> Salon dans lequel on veut afficher les logs
+
+**Créer un Giveaway**
+- `/giveaway {reward} {duree} {unite}`
+  - `{reward}` (str) -> Récompense du Giveaway
+  - `{duree}` (int) -> Durée du Giveaway
+  - `{unite}` (Literal\['seconde','minute','heure','jour'\]) -> Unité de la durée
+
+**Obtenir un rôle via des réactions**
+- `/reactionrole {emoji} {role_id} {message_link}`
+  - `{emoji}` (str) -> Emoji de la réaction
+  - `{role_id}` (str) -> Identifiant du rôle
+  - `{message_link}` (str) -> Lien du message
 
 ## Commandes d'Information
 
-### `/user_info`
-**Description:** Obtenir des informations sur un utilisateur.
-**Arguments:**
-- `member` : Membre à analyser.
+**Informations sur un membre**
+- `/user_info {member}`
+  - `{member}` (discord.Member) -> Membre sur lequel on souhaite des informations
 
-### `/server_info`
-**Description:** Obtenir des informations sur le serveur.
+**Informations sur un serveur**
+- `/server_info`
 
 ## Commandes Fun
 
-### `/qrcode`
-**Description:** Générer un QR code.
-**Arguments:**
-- `url` : Lien à transformer en QR code.
-- `bg_color` : Couleur du fond.
-- `box_color` : Couleur des cases.
-- `box_size` : Taille des cases.
-- `border_size` : Taille de la bordure.
+**Générer un QRCode via une URL**
+- `/qrcode {URL} [bg_color] [box_color] [box_size] [border_size]`
+  - `{URL}` (str) -> Lien qui sera mis sous forme de QRCode
+  - `[bg_color]` (Literal\['white','black','red','blue','green'\]) -> Couleur du fond de QRCode
+  - `[box_color]` (Literal\['white','black','red','blue','green'\]) -> Couleur du QRCode
+  - `[box_size]` (int) -> Taille du QRCode
+  - `[border_size]` (int) -> Taille de la bordure du QRCode
 
-### `/blague`
-**Description:** Afficher une blague aléatoire.
+**Remplacer des caractères par des caractères similaires**
+- `/chinese {text}`
+  - `{text}` (str) -> Texte à changer avec des caractères similaires
 
-### `/proverbe`
-**Description:** Afficher un proverbe aléatoire.
+**Une petite blague**
+- `/blague`
 
-### `/jeu`
-**Description:** Trouver le chat caché.
+**Un petit proverbe**
+- `/proverbe`
 
-### `/humour_noir`
-**Description:** Afficher une blague d'humour noir.
+**Trouve le chat caché**
+- `/jeu`
 
-### `/histoire`
-**Description:** Afficher une histoire drôle.
+**Une blague d'humour noir**
+- `/humour_noir`
 
-## Commandes de Jeux
+**Une petite histoire**
+- `/histoire`
 
-### `/puissance4`
-**Description:** Lancer une partie de Puissance 4.
-**Arguments:**
-- `adversaire` : Joueur adverse.
+**Un petit proverbe spécial développeur**
+- `/dev`
 
-### `/play_p4`
-**Description:** Jouer un coup au Puissance 4.
-**Arguments:**
-- `column` : Numéro de la colonne où placer son jeton.
+**Quelques liens à propos de moi**
+- `/alexer`
 
-### `/pendu`
-**Description:** Jouer au Pendu.
+**Joue au puissance 4**
+- `/puissance4 {adversaire}`
+  - `{adversaire}` (discord.Member) -> Adversaire de jeu
 
-### `/deviner`
-**Description:** Deviner une lettre pour le jeu du Pendu.
-**Arguments:**
-- `letter` : Lettre à deviner.
+**Joue au pendu (SOLO)**
+- `/pendu`
 
-### `/blackjack`
-**Description:** Jouer au Blackjack.
+**Joue au pendu (AVEC UN AMI)**
+- `/pendu_ami {adversaire}`
+  - `{adversaire}` (discord.Member) -> Adversaire de jeu
 
-## Commandes Diverses
+**Joue au morpion**
+- `/morpion {adversaire}`
+  - `{adversaire}` (discord.Member) -> Adversaire de jeu
 
-### `/create_serveur`
-**Description:** Créer un serveur entièrement (Rôles, Salons textuels/vocaux, Catégories). **ATTENTION cette commande supprime tous les salons et rôles déjà existants**.
+**Joue au blackjack**
+- `/blackjack`
 
-### `/alexer`
-**Description:** Obtenir des liens vers les réseaux sociaux du créateur.
-
-### `/sondage`
-**Description:** Créer un sondage avec un compte à rebours.
-**Arguments:**
-- `question` : Question du sondage.
-- `options` : Réponses possibles (séparées par une virgule).
-- `duration` : Durée du sondage en secondes.
-
-## Commandes Spéciales
-
-### `/dieu`
-**Description:** Bannir un membre avec la Grâce Divine de Dieu.
-**Permissions:** Uniquement Alexer.
-
-### `/cacaor`
-**Description:** Bannir un membre avec Cacaor.
-**Permissions:** Uniquement Emma.
-
-### `/chatiment`
-**Description:** Bannir un membre avec le Châtiment des Enfers.
-**Permissions:** Uniquement Erased.
+**Créer un serveur entier**
+- `/create_serveur`
 
 ---
-
 **Note:** Certaines commandes nécessitent des permissions spécifiques pour être exécutées.
 
-> Un bug ? Contactez moi sur Discord : `.alexer`
+
+> Un bug ? Ajoutez moi sur Discord : `.alexer`
