@@ -7,7 +7,7 @@ Ce dépôt contient les **Conditions d'utilisation** et la **Politique de confid
 - [Politique de confidentialité](./docs/privacy-policy.md)
 
 ## 🔍 À propos
-**Elaxer** est un bot Discord conçu pour assurer la protection et l'amusement sur les serveurs.
+**Elaxer** est un bot Discord conçu pour assurer la protection et le divertissement sur les serveurs.
 
 ## 🚀 Comment utiliser ces documents ?
 - Si vous êtes administrateur d’un serveur utilisant **Elaxer**, vous acceptez ces documents.
@@ -27,11 +27,11 @@ This repository contains the **Terms of Service** and **Privacy Policy** for the
 - [Privacy Policy](./docs/privacy-policy.md)
 
 ## 🔍 About
-**Elaxer** is a Discord bot designed to ensure protection and fun on the servers.
+**Elaxer** is a Discord bot designed to ensure protection and entertainment on the servers.
 
-## 🚀 How to Use
+## 🚀 How to use
 - If you are an administrator using Elaxer in your server, you agree to these documents.
-- If you need to contact us regarding legal matters, please reach out me on discord : `.alexer`.
+- If you need to contact us regarding legal matters, please contact us.
 
 ## 📬 Contact
 For any questions, please contact us on Discord : `.alexer`.
