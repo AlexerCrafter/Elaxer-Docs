@@ -3,8 +3,8 @@
 Ce dépôt contient les **Conditions d'utilisation** et la **Politique de confidentialité** du bot Discord **Elaxer**.
 
 ## 📜 Documents
-- [Conditions d'utilisation](./docs/terms-of-service.md)
-- [Politique de confidentialité](./docs/privacy-policy.md)
+- [Conditions d'utilisation](./docs/conditions-utilisation.md)
+- [Politique de confidentialité](./docs/politique-de-confidentialite.md)
 
 ## 🔍 À propos
 **Elaxer** est un bot Discord conçu pour assurer la protection et le divertissement sur les serveurs.
