@@ -1,6 +1,6 @@
 # Documentation des Commandes prises en charge par le Bot Elaxer
 
-Dernière mise à jour de ce document : 27/03/2025
+Dernière mise à jour de ce document : 07/05/2025
 
 ## Introduction
 Ce document liste et décrit les commandes disponibles pour le bot discord **Elaxer**.  
@@ -84,18 +84,6 @@ Les permissions requises pour certaines commandes peuvent également être ajust
 
 **Une petite blague**
 - `/blague`
-
-**Un petit proverbe**
-- `/proverbe`
-
-**Trouve le chat caché**
-- `/jeu`
-
-**Une blague d'humour noir**
-- `/humour_noir`
-
-**Une petite histoire**
-- `/histoire`
 
 **Un petit proverbe spécial développeur**
 - `/dev`
